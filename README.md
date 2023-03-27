@@ -1,4 +1,3 @@
-
 > An awesome & curated list of best laf practices
 
 ## 💡 **Laf 使用教程**
@@ -13,6 +12,7 @@
 ## 🚀 **Laf 案例**
  - [三分钟拥有自己的 ChatGPT (从开发到上线)](https://zuofeng59556.github.io/my-blog/pages/quickStart/chatGPT/)
  - [三分钟搭建飞书机器人](https://forum.laf.run/d/88)
+ - [三分钟 ChatGPT 接入钉钉机器人](https://juejin.cn/post/7211061398680305725)
  - [三分钟写一个 Todo app，瞬间征服女神](https://forum.laf.run/d/151)
  - [小报童导航](https://forum.laf.run/d/46)
 
@@ -24,3 +24,4 @@
 
 ## 😃 **Interesting Laf**
  - [我用 Laf 三分钟写了一个专属 ChatGPT ，Laf 创始人：明天来上班！](https://zuofeng59556.github.io/my-blog/pages/quickStart/offer/)
+
