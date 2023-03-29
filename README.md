@@ -20,6 +20,7 @@
  - [Chatmind](https://www.chatmind.tech/?utm_source=appinn.com)  - 与AI对话生成思维导图
  - [ChatGpt](http://lafai.io/) - 无需翻墙，无需等待，点击开聊
  - [小报童导航](https://forum.laf.run/d/46) - 小报童导航，发现优秀专栏
+ - [lafdrop](https://github.com/moonrailgun/lafdrop) - Snapdrop的laf移植版，局域网p2p文件传输
 
 ## ⚽ **Laf 生态**
  - [vs code 插件](https://forum.laf.run/d/67) - 在 vscode 中开发 laf
